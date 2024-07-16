@@ -1,0 +1,40 @@
+Number of evaluate Picture: 589
+Epoch [1/20], Loss: 13.6863, Val Loss: 2.9426,mIoU: 0.6548, Dice: 0.6896,Time: 40.53 seconds
+Number of evaluate Picture: 589
+Epoch [2/20], Loss: 13.5462, Val Loss: 1.8176,mIoU: 0.7437, Dice: 0.7699,Time: 39.43 seconds
+Number of evaluate Picture: 589
+Epoch [3/20], Loss: 14.7221, Val Loss: 1.5020,mIoU: 0.7544, Dice: 0.7893,Time: 39.28 seconds
+Number of evaluate Picture: 589
+Epoch [4/20], Loss: 14.5658, Val Loss: 1.5199,mIoU: 0.7591, Dice: 0.7892,Time: 39.24 seconds
+Number of evaluate Picture: 589
+Epoch [5/20], Loss: 16.2898, Val Loss: 1.6459,mIoU: 0.7369, Dice: 0.7739,Time: 39.30 seconds
+Number of evaluate Picture: 589
+Epoch [6/20], Loss: 14.2968, Val Loss: 1.6972,mIoU: 0.7281, Dice: 0.7636,Time: 39.22 seconds
+Number of evaluate Picture: 589
+Epoch [7/20], Loss: 15.5760, Val Loss: 1.0766,mIoU: 0.8045, Dice: 0.8365,Time: 39.24 seconds
+Number of evaluate Picture: 589
+Epoch [8/20], Loss: 14.3699, Val Loss: 1.1802,mIoU: 0.8115, Dice: 0.8430,Time: 39.23 seconds
+Number of evaluate Picture: 589
+Epoch [9/20], Loss: 15.1399, Val Loss: 1.2871,mIoU: 0.7795, Dice: 0.8168,Time: 39.20 seconds
+Number of evaluate Picture: 589
+Epoch [10/20], Loss: 13.6123, Val Loss: 1.2798,mIoU: 0.7625, Dice: 0.7978,Time: 39.22 seconds
+Number of evaluate Picture: 589
+Epoch [11/20], Loss: 15.0318, Val Loss: 0.7998,mIoU: 0.8476, Dice: 0.8797,Time: 39.19 seconds
+Number of evaluate Picture: 589
+Epoch [12/20], Loss: 13.3427, Val Loss: 0.7813,mIoU: 0.8466, Dice: 0.8776,Time: 39.24 seconds
+Number of evaluate Picture: 589
+Epoch [13/20], Loss: 13.5047, Val Loss: 0.7473,mIoU: 0.8476, Dice: 0.8791,Time: 39.25 seconds
+Number of evaluate Picture: 589
+Epoch [14/20], Loss: 14.0065, Val Loss: 0.7625,mIoU: 0.8460, Dice: 0.8769,Time: 39.28 seconds
+Number of evaluate Picture: 589
+Epoch [15/20], Loss: 13.5900, Val Loss: 0.7387,mIoU: 0.8527, Dice: 0.8852,Time: 39.27 seconds
+Number of evaluate Picture: 589
+Epoch [16/20], Loss: 16.1387, Val Loss: 0.7240,mIoU: 0.8558, Dice: 0.8869,Time: 39.18 seconds
+Number of evaluate Picture: 589
+Epoch [17/20], Loss: 14.1757, Val Loss: 0.7481,mIoU: 0.8518, Dice: 0.8829,Time: 39.24 seconds
+Number of evaluate Picture: 589
+Epoch [18/20], Loss: 15.5366, Val Loss: 0.7356,mIoU: 0.8448, Dice: 0.8767,Time: 39.22 seconds
+Number of evaluate Picture: 589
+Epoch [19/20], Loss: 13.7311, Val Loss: 0.7438,mIoU: 0.8488, Dice: 0.8811,Time: 39.23 seconds
+Number of evaluate Picture: 589
+Epoch [20/20], Loss: 14.9700, Val Loss: 0.7244,mIoU: 0.8555, Dice: 0.8871,Time: 39.20 seconds

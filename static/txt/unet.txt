@@ -1,0 +1,39 @@
+Epoch 1/20,Bce_loss:7.1256,mIoU: 0.4778, Dice: 0.5064,Time: 58.12 seconds
+Number of evaluate Picture: 193
+Epoch 2/20,Bce_loss:3.8476,mIoU: 0.5761, Dice: 0.6039,Time: 58.11 seconds
+Number of evaluate Picture: 193
+Epoch 3/20,Bce_loss:2.5821,mIoU: 0.6222, Dice: 0.6580,Time: 58.12 seconds
+Number of evaluate Picture: 193
+Epoch 4/20,Bce_loss:2.1611,mIoU: 0.6510, Dice: 0.6881,Time: 58.13 seconds
+Number of evaluate Picture: 193
+Epoch 5/20,Bce_loss:1.8698,mIoU: 0.6379, Dice: 0.6776,Time: 58.16 seconds
+Number of evaluate Picture: 193
+Epoch 6/20,Bce_loss:1.6876,mIoU: 0.6892, Dice: 0.7078,Time: 58.14 seconds
+Number of evaluate Picture: 193
+Epoch 7/20,Bce_loss:1.3043,mIoU: 0.7078, Dice: 0.7327,Time: 58.10 seconds
+Number of evaluate Picture: 193
+Epoch 8/20,Bce_loss:1.5423,mIoU: 0.6936, Dice: 0.7312,Time: 58.11 seconds
+Number of evaluate Picture: 193
+Epoch 9/20,Bce_loss:1.2356,mIoU: 0.7195, Dice: 0.7457,Time: 58.08 seconds
+Number of evaluate Picture: 193
+Epoch 10/20,Bce_loss:1.1267,mIoU: 0.7339, Dice: 0.7694,Time: 58.06 seconds
+Number of evaluate Picture: 193
+Epoch 11/20,Bce_loss:1.2261,mIoU: 0.7263, Dice: 0.7567,Time: 58.10 seconds
+Number of evaluate Picture: 193
+Epoch 12/20,Bce_loss:0.9255,mIoU: 0.7623, Dice: 0.7834,Time: 58.05 seconds
+Number of evaluate Picture: 193
+Epoch 13/20,Bce_loss:0.8649,mIoU: 0.7885, Dice: 0.8075,Time: 58.09 seconds
+Number of evaluate Picture: 193
+Epoch 14/20,Bce_loss:0.9143,mIoU: 0.7513, Dice: 0.7779,Time: 58.08 seconds
+Number of evaluate Picture: 193
+Epoch 15/20,Bce_loss:0.7938,mIoU: 0.7957, Dice: 0.8289,Time: 58.04 seconds
+Number of evaluate Picture: 193
+Epoch 16/20,Bce_loss:0.7833,mIoU: 0.7745, Dice: 0.8026,Time: 58.03 seconds
+Number of evaluate Picture: 193
+Epoch 17/20,Bce_loss:0.7628,mIoU: 0.7796, Dice: 0.8116,Time: 58.06 seconds
+Number of evaluate Picture: 193
+Epoch 18/20,Bce_loss:0.7724,mIoU: 0.7861, Dice: 0.8081,Time: 58.11 seconds
+Number of evaluate Picture: 193
+Epoch 19/20,Bce_loss:0.7420,mIoU: 0.7934, Dice: 0.8226,Time: 58.09 seconds
+Number of evaluate Picture: 193
+Epoch 20/20,Bce_loss:0.7216,mIoU: 0.8085, Dice: 0.8358,Time: 58.07 seconds
