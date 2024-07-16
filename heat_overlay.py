@@ -1,11 +1,8 @@
+#生成从后往前的热力图
 import cv2
 import os
-import matplotlib.pyplot as plt
-
 import numpy as np
 from PIL import Image
-from matplotlib.colors import LinearSegmentedColormap
-
 # 生成热力图
 def generate_heatmap(image, min_val, max_val):
     # 归一化处理
@@ -16,9 +13,6 @@ def generate_heatmap(image, min_val, max_val):
     heatmap[image == 0] = [0, 0, 0]
 
     return heatmap
-
-
-
 # 生成热力图
 
 
@@ -58,12 +52,8 @@ def process_folders(src_folder, output_folder):
                 print(f"Saved heatmap to {output_path}")
         else:
             print("No valid image and mask pairs found.")
-# 定义文件夹路径
-# folder1 = "C:\deskTop\Brain_MRI_segmentation"
-# folder2 = "C:/deskTop/unet_predict"
-# output_folder = "C:/deskTop/heat_image"
-src_folder = 'E:\\brain_three\\b_2'
-output_folder = "E:\\brain_three\\b_1"
+src_folder = ''
+output_folder = ""
 # 处理文件夹中的图像
 process_folders(src_folder, output_folder)
 

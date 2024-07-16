@@ -1,4 +1,4 @@
-# 时间：2024/7/4 14:51
+#测试合并模型
 import os
 
 import vtk

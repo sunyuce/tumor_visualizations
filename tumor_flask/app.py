@@ -7,10 +7,10 @@ app = Flask(__name__)
 
 # 配置 MySQL 数据库连接
 db_config = {
-    'user': 'root',
-    'password': '32101151',
-    'host': 'localhost',
-    'database': 'tumor',
+    'user': '',
+    'password': '',
+    'host': '',
+    'database': '',
 }
 
 

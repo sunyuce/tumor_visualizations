@@ -1,5 +1,3 @@
-# SYC python learning
-# 时间：2024/7/10 9:26
 import os
 from PIL import Image
 
@@ -163,9 +161,9 @@ from PIL import Image
 #                     print(f"Saved: {output_file_path}")
 #
 # # 示例使用
-# image_folder = 'E:\\brain_three\\brain_syc'  # 替换为存储 image 文件的主文件夹路径
-# heat_folder = 'E:\\brain_three\\tumor_heat'    # 替换为存储 heat 文件的主文件夹路径
-# output_folder = 'E:\\brain_three\\heat_com' # 替换为你想要保存结果的主文件夹路径
+# image_folder = ''  # 替换为存储 image 文件的主文件夹路径
+# heat_folder = ''    # 替换为存储 heat 文件的主文件夹路径
+# output_folder = '' # 替换为你想要保存结果的主文件夹路径
 #
 # overlay_images(image_folder, heat_folder, output_folder)
 
@@ -173,6 +171,7 @@ import os
 from PIL import Image
 import numpy as np
 
+#批量堆叠三个解剖平面的肿瘤热力图到解剖平面图上
 import os
 from PIL import Image
 import numpy as np
@@ -229,8 +228,8 @@ def process_images(src_dir1, src_dir2, dst_dir):
 
 
 if __name__ == "__main__":
-    src_dir1 = "E:\\brain_three\\brain_50_out"
-    src_dir2 = "E:\\brain_three\\tumor_50_out"
-    dst_dir = "E:\\brain_three\\slides_50"
+    src_dir1 = ""
+    src_dir2 = ""
+    dst_dir = ""
 
     process_images(src_dir1, src_dir2, dst_dir)

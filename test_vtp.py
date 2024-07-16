@@ -1,5 +1,4 @@
-# SYC python learning
-# 时间：2024/7/4 9:33
+#用来保存vtp文件
 import vtk
 import os
 

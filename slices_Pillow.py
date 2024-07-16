@@ -1,7 +1,6 @@
+#将二值图像切分为三个解剖平面方向上的三组图像，编号从0开始
 import vtk
 import os
-
-
 # 读取一组 PNG 图像并组合成三维图像数据
 def read_png_series(directory, file_prefix, extent, spacing):
     reader = vtk.vtkPNGReader()
@@ -86,8 +85,8 @@ def main(input_folder, output_folder):
 
 
 # 设置输入和输出文件夹
-input_folder = 'E:\\brain_three\\brain_50'
-output_folder = 'E:\\brain_three\\brain_50_out'
+input_folder = ''
+output_folder = ''
 
 # 执行主函数
 main(input_folder, output_folder)

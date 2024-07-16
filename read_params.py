@@ -1,5 +1,3 @@
-# SYC python learning
-# 时间：2024/7/8 19:06
 import re
 
 def getparams(file_path1, file_path2, file_path3):

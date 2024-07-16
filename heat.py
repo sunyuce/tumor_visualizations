@@ -1,11 +1,7 @@
-# SYC python learning
-# 时间：2024/7/11 22:51
-import cv2
+#生成一张最终热力图,输入文件夹中包含三个解剖平面的子文件夹,start from 0
 import os
 import numpy as np
 from PIL import Image
-
-
 # 生成热力图
 # def generate_heatmap(image, min_val, max_val):
 #     normalized_image = (image - min_val) / (max_val - min_val)  # 归一化到0-1范围
@@ -128,8 +124,8 @@ def process_folders(src_folder, output_folder):
             process_files(files, subdir, src_folder, output_folder,3)
 
 # 定义文件夹路径
-src_folder = 'E:\\brain_three\\tumor_syc'
-output_folder = "E:\\brain_three\\tumor_heat"
+src_folder = ''
+output_folder = ""
 
 # 处理文件夹中的图像
 process_folders(src_folder, output_folder)

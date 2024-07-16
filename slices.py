@@ -1,7 +1,6 @@
+#用来测试切分解剖平面的准确性
 import vtk
 import os
-
-
 # 读取一组 PNG 图像并组合成三维图像数据
 def read_png_series(directory, file_prefix, extent, spacing):
     reader = vtk.vtkPNGReader()

@@ -1,7 +1,6 @@
+#将二值图像切分为三个解剖平面图，编号从0开始
 import vtk
 import os
-
-
 # 读取一组 PNG 图像并组合成三维图像数据
 def read_png_series(directory, file_prefix, extent, spacing):
     reader = vtk.vtkPNGReader()

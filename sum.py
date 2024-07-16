@@ -1,9 +1,8 @@
-# SYC python learning
-# 时间：2024/7/4 21:18
+#查看各个患者图片数量
 import os
 
 
-def process_folders(base_folder, output_folder):
+def process_folders(base_folder):
     nums = []
     # if not os.path.exists(output_folder):
     #     os.makedirs(output_folder)
@@ -23,6 +22,5 @@ def process_folders(base_folder, output_folder):
     print('min num:',min(nums))
 
 if __name__ == '__main__':
-    base_folder = 'E:\\tumor_data'  # 替换为实际路径
-    output_folder = 'path/to/your/output_folder'  # 替换为实际路径
-    process_folders(base_folder, output_folder)
+    base_folder = ''  # 替换为实际路径
+    process_folders(base_folder)

@@ -1,5 +1,3 @@
-# SYC python learning
-# 时间：2024/7/12 14:28
 #保存vtp文件
 # import os
 # import shutil
@@ -25,8 +23,8 @@
 #
 #
 # # 调用函数，指定源文件夹和目标文件夹路径
-# source_directory = "E:\\tumor_data_out"
-# target_directory = "E:\\combine_tumor"
+# source_directory = ""
+# target_directory = ""
 # rename_and_move_files(source_directory, target_directory)
 
 #取符合条件的高亮大脑图
@@ -72,11 +70,13 @@
 #
 # # 设置参数
 # txt_file = 'more_than_50.txt'  # txt文件路径
-# main_folder = 'E:\\brain_three\\brain'  # 主文件夹路径
-# target_folder = 'E:\\brain_three\\brain_50'  # 目标文件夹路径
+# main_folder = ''  # 主文件夹路径
+# target_folder = ''  # 目标文件夹路径
 #
 # # 执行主函数
 # main(txt_file, main_folder, target_folder)
+
+#将符合txt条件的文件夹保存到新文件夹中
 import os
 import shutil
 def read_filenames_from_txt(txt_file):
@@ -105,8 +105,8 @@ def main(txt_file, main_folder, target_folder):
 
 # 设置参数
 txt_file = 'more_than_50.txt'  # txt文件路径
-main_folder = 'E:\\brain_three\\tumor_syc'  # 主文件夹路径
-target_folder = 'E:\\brain_three\\tumor_50_out'  # 目标文件夹路径
+main_folder = ''  # 主文件夹路径
+target_folder = ''  # 目标文件夹路径
 
 # 执行主函数
 main(txt_file, main_folder, target_folder)

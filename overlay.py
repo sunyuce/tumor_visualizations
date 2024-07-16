@@ -1,5 +1,4 @@
-# SYC python learning
-# 时间：2024/7/10 8:56
+#测试热力图堆叠
 from PIL import Image
 
 def overlay_images(source_img_path, target_img_path, output_img_path):
